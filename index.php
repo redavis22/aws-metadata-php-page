@@ -86,7 +86,7 @@ if (empty($_GET['refresh'])) {
 <div id="page-container">
 	<div id="header">
 		<div id="logo">
-			<h1>Amazon Web Services</h1>
+			<h1>Exam Prep</h1>
 		</div>
 	</div>
 	<div id="main-nav">
